@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\08_Exercise\Task02_Character_Multiplier\bin\Debug\netcoreapp3.1\Task02_Character_Multiplier.exe
+C:\Users\Kiril\source\repos\08_Exercise\Task02_Character_Multiplier\bin\Debug\netcoreapp3.1\Task02_Character_Multiplier.deps.json
+C:\Users\Kiril\source\repos\08_Exercise\Task02_Character_Multiplier\bin\Debug\netcoreapp3.1\Task02_Character_Multiplier.runtimeconfig.json
+C:\Users\Kiril\source\repos\08_Exercise\Task02_Character_Multiplier\bin\Debug\netcoreapp3.1\Task02_Character_Multiplier.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\08_Exercise\Task02_Character_Multiplier\bin\Debug\netcoreapp3.1\Task02_Character_Multiplier.dll
+C:\Users\Kiril\source\repos\08_Exercise\Task02_Character_Multiplier\bin\Debug\netcoreapp3.1\Task02_Character_Multiplier.pdb
+C:\Users\Kiril\source\repos\08_Exercise\Task02_Character_Multiplier\obj\Debug\netcoreapp3.1\Task02_Character_Multiplier.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\08_Exercise\Task02_Character_Multiplier\obj\Debug\netcoreapp3.1\Task02_Character_Multiplier.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\08_Exercise\Task02_Character_Multiplier\obj\Debug\netcoreapp3.1\Task02_Character_Multiplier.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\08_Exercise\Task02_Character_Multiplier\obj\Debug\netcoreapp3.1\Task02_Character_Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\08_Exercise\Task02_Character_Multiplier\obj\Debug\netcoreapp3.1\Task02_Character_Multiplier.dll
+C:\Users\Kiril\source\repos\08_Exercise\Task02_Character_Multiplier\obj\Debug\netcoreapp3.1\Task02_Character_Multiplier.pdb
+C:\Users\Kiril\source\repos\08_Exercise\Task02_Character_Multiplier\obj\Debug\netcoreapp3.1\Task02_Character_Multiplier.genruntimeconfig.cache
