@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\08_Exercise\08_Exercise\bin\Debug\netcoreapp3.1\Task01_Valid_Usernames.exe
+C:\Users\Kiril\source\repos\08_Exercise\08_Exercise\bin\Debug\netcoreapp3.1\Task01_Valid_Usernames.deps.json
+C:\Users\Kiril\source\repos\08_Exercise\08_Exercise\bin\Debug\netcoreapp3.1\Task01_Valid_Usernames.runtimeconfig.json
+C:\Users\Kiril\source\repos\08_Exercise\08_Exercise\bin\Debug\netcoreapp3.1\Task01_Valid_Usernames.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\08_Exercise\08_Exercise\bin\Debug\netcoreapp3.1\Task01_Valid_Usernames.dll
+C:\Users\Kiril\source\repos\08_Exercise\08_Exercise\bin\Debug\netcoreapp3.1\Task01_Valid_Usernames.pdb
+C:\Users\Kiril\source\repos\08_Exercise\08_Exercise\obj\Debug\netcoreapp3.1\Task01_Valid_Usernames.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\08_Exercise\08_Exercise\obj\Debug\netcoreapp3.1\Task01_Valid_Usernames.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\08_Exercise\08_Exercise\obj\Debug\netcoreapp3.1\Task01_Valid_Usernames.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\08_Exercise\08_Exercise\obj\Debug\netcoreapp3.1\Task01_Valid_Usernames.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\08_Exercise\08_Exercise\obj\Debug\netcoreapp3.1\Task01_Valid_Usernames.dll
+C:\Users\Kiril\source\repos\08_Exercise\08_Exercise\obj\Debug\netcoreapp3.1\Task01_Valid_Usernames.pdb
+C:\Users\Kiril\source\repos\08_Exercise\08_Exercise\obj\Debug\netcoreapp3.1\Task01_Valid_Usernames.genruntimeconfig.cache
